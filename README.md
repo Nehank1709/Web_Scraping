@@ -32,4 +32,4 @@
    - Browse and select your update_naukri.bat file inside Project folder.
    - Finish & Save
    
-7) Resume will be udated routinely as per the details. To test right click on task and select **Run**
+7) Resume will be updated routinely as per the details. To test right click on task and select **Run**
